@@ -1,4 +1,3 @@
-# Who-am-I
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,18 +31,6 @@
             width: 150px;
             border-radius: 50%;
             margin-top: 10px;
-        }
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 10px;
-            color: white;
-            background-color: #007BFF;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-        .button:hover {
-            background-color: #0056b3;
         }
         .resume {
             text-align: left;
@@ -96,7 +83,6 @@
         
         <h2>Contact Me</h2>
         <p>Email: myemail@example.com</p>
-        <a href="mailto:myemail@example.com" class="button">Email Me</a>
     </div>
 </body>
 </html>
